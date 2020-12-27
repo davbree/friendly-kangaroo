@@ -8,12 +8,12 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 10
     content: >-
-      # Real, beautiful plants right to your door --- 🚪
+      # Real, beautiful plants right to your door 🚪
 
       Should you but don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
     actions:
-      - title: See all items
+      - title: See all items??
         url: /store
         arrow: true
         style: primary

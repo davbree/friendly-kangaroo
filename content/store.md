@@ -12,11 +12,10 @@ sections:
       - content/products/plant1.md
       - content/products/plant3.md
       - content/products/plant5.md
-      - content/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
-    subtitle: from $149.99
+    subtitle: from $49.99
     image: images/promo.jpg
     cta:
       title: Discover
