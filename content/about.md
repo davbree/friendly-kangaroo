@@ -19,7 +19,7 @@ sections:
     bulletpoints:
       - title: We love all the plants
         description: >-
-          Now THAT is true, but we love web development even more. We talk about
+          And we love web development even more. We talk about
           it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
           live demos and open source these bad boys [on
           GitHub](https://github.com/snipcart). Matter of fact, this Planty
