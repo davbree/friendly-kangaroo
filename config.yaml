@@ -30,7 +30,7 @@ params:
       url: /store
       style: link
     - title: My Page
-      url: /about
+      url: /mynewpage
       style: link
     - title: FAQ
       url: /faq
