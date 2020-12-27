@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: 'A whole new world!'
+    headline: 'A whole new world!sss'
     subtitle: >-
       A new fanatastic POC. Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
       from Québec City. Planty is a theme we built for
