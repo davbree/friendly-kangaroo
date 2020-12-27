@@ -29,8 +29,8 @@ params:
     - title: Store
       url: /store
       style: link
-    - title: About
-      url: /about
+    - title: My Page
+      url: /mypage
       style: link
     - title: FAQ
       url: /faq
