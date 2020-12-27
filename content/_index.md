@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/header.jpg
-    background_image_opacity: 80
+    background_image_opacity: 50
     content: >-
       # Real, beautiful plants right to your door.
 
