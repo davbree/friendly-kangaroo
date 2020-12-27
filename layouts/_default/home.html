@@ -1,5 +1,5 @@
 {{ define "content" }}
-<h1 style="color: white"> Another big Header</h1>
+<h1 style="color: white; text-align: center"> Another big Header</h1>
 <main class="content{{ if .Params.page_css_class }} {{ $.Params.page_css_class }}{{ end }}">
     {{ range $section := .Params.sections }}
     {{ $include_dict := dict "section" $section "page" $ "Site" $.Site }}
