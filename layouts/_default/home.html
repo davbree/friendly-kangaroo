@@ -1,5 +1,5 @@
 {{ define "content" }}
-<h3 style="color: green; text-align: center; margin: 20px"> Another big Header Simon!</h3>
+<h3 style="color: green; text-align: center; margin: 20px"> Another big Header !!!</h3>
 <main class="content{{ if .Params.page_css_class }} {{ $.Params.page_css_class }}{{ end }}">
     {{ range $section := .Params.sections }}
     {{ $include_dict := dict "section" $section "page" $ "Site" $.Site }}
